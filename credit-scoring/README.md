@@ -147,7 +147,7 @@ were significantly more likely to default on loans.
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc-abc.png)
 
 ### SHAP Summary Plot
 
