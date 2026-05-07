@@ -229,6 +229,6 @@ Data Scientist | FinTech Professional | AI & Financial Inclusion Enthusiast
 
 ### Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/lumnehangela/]
+- LinkedIn: https://www.linkedin.com/in/lumnehangela/
 
 
