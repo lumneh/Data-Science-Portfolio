@@ -134,8 +134,9 @@ The model identified these features as the strongest predictors of default risk:
 1. diff_inst
 2. default
 3. inst_due
-![Variable Dependence](variabledependence.png)
-![Value Dependence](valueplot.png)
+   
+![Variable Dependence](images/variabledependence.png)
+![Value Dependence](images/valueplot.png)
 
 ### Key Insight
 
