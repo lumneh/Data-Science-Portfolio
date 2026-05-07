@@ -44,6 +44,7 @@ The dataset contains transaction-level data from chit funds operating in India.
 - 57 features
 - Transaction and borrower behaviour data
 - Highly imbalanced target variable
+  
 ![Class Imbalance](images/classimbalance.png)
 
 ### Key Features
