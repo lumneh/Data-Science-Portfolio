@@ -44,6 +44,7 @@ The dataset contains transaction-level data from chit funds operating in India.
 - 57 features
 - Transaction and borrower behaviour data
 - Highly imbalanced target variable
+![Class Imbalance](images/classimbalance.png)
 
 ### Key Features
 
@@ -132,6 +133,8 @@ The model identified these features as the strongest predictors of default risk:
 1. diff_inst
 2. default
 3. inst_due
+![Variable Dependence](variabledependence.png)
+![Value Dependence](valueplot.png)
 
 ### Key Insight
 
@@ -143,21 +146,12 @@ Borrowers with:
 were significantly more likely to default on loans.
 
 
-## Sample Visualizations
+## Some Visualizations
 
 ### ROC Curves
 
 ![ROC Curve for Adaboost Classifier](images/roc-abc.png) ![ROC Curve for RandomForest Classifier](images/roc-rfc.png)
 ![ROC Curve for Gradient Boost Classifier](images/roc-gbc.png) ![ROC Curve for XGBoost Classifier](images/roc-xgb.png)
-
-### SHAP Plots
-
-![SHAP Summary](variabledependence.png)
-![SHAP Summary](valueplot.png)
-
-### Class Imbalance
-
-![Class Imbalance](images/classimbalance.png)
 
 
 ## Business Impact
