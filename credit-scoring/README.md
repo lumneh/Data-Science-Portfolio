@@ -147,7 +147,8 @@ were significantly more likely to default on loans.
 
 ### ROC Curve
 
-![ROC Curve](images/roc-abc.png)
+![ROC Curve for Adaboost Classifier](images/roc-abc.png) ![ROC Curve for RandomForest Classifier](images/roc-rfc.png)
+![ROC Curve for Gradient Boost Classifier](images/roc-rgc.png) ![ROC Curve for XGBoost Classifier](images/roc-xgb.png)
 
 ### SHAP Summary Plot
 
