@@ -150,13 +150,14 @@ were significantly more likely to default on loans.
 ![ROC Curve for Adaboost Classifier](images/roc-abc.png) ![ROC Curve for RandomForest Classifier](images/roc-rfc.png)
 ![ROC Curve for Gradient Boost Classifier](images/roc-gbc.png) ![ROC Curve for XGBoost Classifier](images/roc-xgb.png)
 
-### SHAP Summary Plot
+### SHAP Plots
 
-![SHAP Summary](images/shap_summary.png)
+![SHAP Summary](variabledependence.png)
+![SHAP Summary](valueplot.png)
 
 ### Class Imbalance
 
-![Class Imbalance](images/class_imbalance.png)
+![Class Imbalance](images/classimbalance.png)
 
 
 ## Business Impact
