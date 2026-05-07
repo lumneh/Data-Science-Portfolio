@@ -36,7 +36,7 @@ This project demonstrates how explainable AI can improve financial inclusion thr
 
 ## Dataset
 
-The dataset contains transaction-level data from chit funds operating in India.
+The dataset contains transaction-level data from chit funds operating in India gotten from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GWOTGE)
 
 ### Dataset Characteristics
 
