@@ -203,7 +203,6 @@ Potential improvements include:
 
 - Modular project structure
 - Reproducible workflow
-- GitHub version control
 
 
 ## Research Foundation
