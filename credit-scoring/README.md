@@ -193,6 +193,37 @@ same transformation used during model development.
 The `/predict` endpoint returns the predicted credit-score class, class
 probabilities, and feature-level SHAP explanations.
 
+**API:** FastAPI
+
+### Example API Request
+
+``` json
+{
+  "Age": 40,
+  "Annual_Income": 33751.27,
+  "Monthly_Inhand_Salary": 2948.61,
+  "Num_Bank_Accounts": 5,
+  "Num_Credit_Card": 5,
+  "Interest_Rate": 20,
+  "Num_of_Loan": 3,
+  "Delay_from_due_date": 16,
+  "Num_of_Delayed_Payment": 20,
+  "Changed_Credit_Limit": 11,
+  "Num_Credit_Inquiries": 4,
+  "Outstanding_Debt": 1328.93,
+  "Credit_Utilization_Ratio": 37.09,
+  "Total_EMI_per_month": 65.01,
+  "Amount_invested_monthly": 117.31,
+  "Monthly_Balance": 362.55,
+  "Credit_History_Months": 230,
+  "Num_Loan_Types": 3,
+  "Month": "January",
+  "Occupation": "Teacher",
+  "Credit_Mix": "Standard",
+  "Payment_of_Min_Amount": "NM",
+  "Payment_Behaviour": "High_spent_Medium_value_payments"
+}
+```
 
 ## Streamlit Application
 
@@ -245,36 +276,19 @@ available in the repository for reproduction in a compatible environment.
 This distinction allows the interactive application to remain usable
 while preserving the project's full explainability implementation.
 
+## 🚀 Live Demo
 
-### Example API Request
+**Try the interactive Streamlit application:**
 
-``` json
-{
-  "Age": 40,
-  "Annual_Income": 33751.27,
-  "Monthly_Inhand_Salary": 2948.61,
-  "Num_Bank_Accounts": 5,
-  "Num_Credit_Card": 5,
-  "Interest_Rate": 20,
-  "Num_of_Loan": 3,
-  "Delay_from_due_date": 16,
-  "Num_of_Delayed_Payment": 20,
-  "Changed_Credit_Limit": 11,
-  "Num_Credit_Inquiries": 4,
-  "Outstanding_Debt": 1328.93,
-  "Credit_Utilization_Ratio": 37.09,
-  "Total_EMI_per_month": 65.01,
-  "Amount_invested_monthly": 117.31,
-  "Monthly_Balance": 362.55,
-  "Credit_History_Months": 230,
-  "Num_Loan_Types": 3,
-  "Month": "January",
-  "Occupation": "Teacher",
-  "Credit_Mix": "Standard",
-  "Payment_of_Min_Amount": "NM",
-  "Payment_Behaviour": "High_spent_Medium_value_payments"
-}
-```
+👉 [Credit Score Classification App](https://creditscoringclassification.streamlit.app/)
+
+The application provides an interactive interface for entering customer
+financial information and generating credit-score predictions and class
+probabilities.
+
+**Deployment:** Streamlit Community Cloud
+
+**Model:** XGBoost
 
 ## Model Monitoring
 
