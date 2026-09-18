@@ -1,0 +1,6 @@
+Feature,TV_Distance,Interpretation
+Credit_Mix,0.3483142857142857,Significant drift
+Payment_Behaviour,0.30165714285714285,Significant drift
+Month,0.009599999999999997,No significant drift
+Occupation,0.006999999999999982,No significant drift
+Payment_of_Min_Amount,0.006780952380952367,No significant drift

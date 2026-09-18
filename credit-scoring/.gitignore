@@ -1,0 +1,41 @@
+# Raw Kaggle data
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local processed datasets
+data/processed/X_test_processed.pkl
+data/processed/X_train_processed.pkl
+data/processed/X_val_processed.pkl
+data/processed/clean_df.pkl
+data/processed/test_df.pkl
+data/processed/train_df.pkl
+data/processed/val_df.pkl
+data/processed/y_test.pkl
+data/processed/y_train.pkl
+data/processed/y_val.pkl

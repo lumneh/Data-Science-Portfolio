@@ -1,0 +1,7 @@
+# SHAP explainability dependencies
+#
+# The SHAP environment requires a compatible combination of
+# Python, NumPy, Numba, llvmlite, SHAP and XGBoost.
+#
+# This environment is intentionally kept separate from the
+# main application environment while compatibility is resolved.

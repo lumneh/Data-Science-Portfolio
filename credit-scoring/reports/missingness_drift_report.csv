@@ -1,0 +1,32 @@
+Feature,Reference_Missing_%,Current_Missing_%,Change_pp,Absolute_Change_pp,Interpretation
+Monthly_Inhand_Salary,14.968571428571428,36.553333333333335,21.584761904761905,21.584761904761905,Significant drift
+Credit_Mix,20.23,0.0,-20.23,20.23,Significant drift
+Payment_Behaviour,7.5442857142857145,0.0,-7.5442857142857145,7.5442857142857145,Moderate drift
+Age,8.387142857142857,8.053333333333333,-0.3338095238095242,0.3338095238095242,No significant drift
+Amount_invested_monthly,4.502857142857144,4.706666666666667,0.20380952380952344,0.20380952380952344,No significant drift
+Occupation,7.018571428571428,7.206666666666667,0.1880952380952392,0.1880952380952392,No significant drift
+Monthly_Balance,1.22,1.3733333333333333,0.15333333333333332,0.15333333333333332,No significant drift
+Changed_Credit_Limit,2.1085714285714285,2.2066666666666666,0.09809523809523801,0.09809523809523801,No significant drift
+Num_of_Delayed_Payment,6.937142857142857,6.98,0.04285714285714359,0.04285714285714359,No significant drift
+Credit_History_Months,9.052857142857142,9.04,-0.012857142857143344,0.012857142857143344,No significant drift
+Num_Credit_Inquiries,1.9714285714285715,1.9733333333333332,0.0019047619047616315,0.0019047619047616315,No significant drift
+Has_personal_loan,0.0,0.0,0.0,0.0,No significant drift
+Payment_of_Min_Amount,0.0,0.0,0.0,0.0,No significant drift
+Num_Bank_Accounts,0.0,0.0,0.0,0.0,No significant drift
+Month,0.0,0.0,0.0,0.0,No significant drift
+Has_payday_loan,0.0,0.0,0.0,0.0,No significant drift
+Has_debt_consolidation_loan,0.0,0.0,0.0,0.0,No significant drift
+Has_student_loan,0.0,0.0,0.0,0.0,No significant drift
+Has_mortgage_loan,0.0,0.0,0.0,0.0,No significant drift
+Has_home_equity_loan,0.0,0.0,0.0,0.0,No significant drift
+Num_Credit_Card,0.0,0.0,0.0,0.0,No significant drift
+Has_credit_builder_loan,0.0,0.0,0.0,0.0,No significant drift
+Has_auto_loan,0.0,0.0,0.0,0.0,No significant drift
+Interest_Rate,0.0,0.0,0.0,0.0,No significant drift
+Annual_Income,0.0,0.0,0.0,0.0,No significant drift
+Total_EMI_per_month,0.0,0.0,0.0,0.0,No significant drift
+Credit_Utilization_Ratio,0.0,0.0,0.0,0.0,No significant drift
+Outstanding_Debt,0.0,0.0,0.0,0.0,No significant drift
+Delay_from_due_date,0.0,0.0,0.0,0.0,No significant drift
+Num_of_Loan,0.0,0.0,0.0,0.0,No significant drift
+Num_Loan_Types,0.0,0.0,0.0,0.0,No significant drift

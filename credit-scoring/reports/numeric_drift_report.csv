@@ -1,0 +1,27 @@
+Feature,PSI,Interpretation
+Num_Credit_Inquiries,2.669338306589072,Significant drift
+Num_of_Delayed_Payment,0.6559661742307069,Significant drift
+Delay_from_due_date,0.30605073160318197,Significant drift
+Outstanding_Debt,0.23242432356813197,Moderate drift
+Total_EMI_per_month,0.05586851284456314,No significant drift
+Changed_Credit_Limit,0.0010002649796925873,No significant drift
+Credit_Utilization_Ratio,0.0009091847508571635,No significant drift
+Num_Bank_Accounts,0.0008299018233411464,No significant drift
+Annual_Income,0.0007628573060853591,No significant drift
+Monthly_Inhand_Salary,0.0007127585969692442,No significant drift
+Age,0.0005457796817147545,No significant drift
+Interest_Rate,0.0005454314456070095,No significant drift
+Amount_invested_monthly,0.0005071519748786319,No significant drift
+Num_Loan_Types,0.0003703509687578225,No significant drift
+Num_Credit_Card,0.00033939876466926024,No significant drift
+Num_of_Loan,0.00030986034268373324,No significant drift
+Monthly_Balance,0.0003077818664817544,No significant drift
+Credit_History_Months,0.00029711982313533624,No significant drift
+Has_auto_loan,0.0,No significant drift
+Has_credit_builder_loan,0.0,No significant drift
+Has_personal_loan,0.0,No significant drift
+Has_home_equity_loan,0.0,No significant drift
+Has_mortgage_loan,0.0,No significant drift
+Has_student_loan,0.0,No significant drift
+Has_debt_consolidation_loan,0.0,No significant drift
+Has_payday_loan,0.0,No significant drift

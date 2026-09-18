@@ -1,0 +1,5 @@
+Monitoring_Signal,Significant_Drift_Count,Moderate_Drift_Count,Overall_Status
+Numeric feature drift,3,1,Significant drift
+Categorical feature drift,2,0,Significant drift
+Missingness drift,2,1,Significant drift
+Prediction drift,1,0,Significant drift
